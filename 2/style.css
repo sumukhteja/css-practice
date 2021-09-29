@@ -1,0 +1,18 @@
+.odd
+{
+background: pink;
+}
+.odd1
+{font-size: 24px}
+#two
+{
+  color: #d000ff;
+  font-size: 36px;
+}
+
+#four
+{
+  background-color: hsl(132, 51%, 67%);
+  font-size: 24px;
+  font-weight: bold;
+ }
